@@ -127,3 +127,9 @@ If you find our work useful, please consider citing us!
 
 Disclaimer: This project is strictly for research purposes, and not an official product from NVIDIA.
 
+
+## 🤡Record
+```bash
+export OPENAI_API_BASE="https://api.aiproxy.io/v1"
+export OPENAI_API_KEY="sk-m8AqmJuFFSbKIWrLh9zmK3b2j3i30cQFmcMUnknMQ5qpbeTx"
+```
